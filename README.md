@@ -1,5 +1,8 @@
 # DeepLense-Project
-## Test GSOC 2024 ML4SC 🧩
+## Test GSOC 2024 ML4SCi 🧩
+
+![35dfa680-d641-11eb-9076-049ddb31a517](https://github.com/Chandrikajoshi123/DeepLense-Project/assets/100508364/6442a70b-7d38-46c3-81ad-019ac40f433d)
+
 <sp>
 
   ##  Common test .1 --> [ Multi class classification ] 1️⃣
