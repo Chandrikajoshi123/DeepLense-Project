@@ -6,7 +6,34 @@
 <sp>
 
   ##  Common test .1 --> [ Multi class classification ] 1️⃣
-   Dataset 
+  
+  ## Classification Task:       
+  
+  We are dealing with a classification problem where images need to be classified into two categories lenses or not lenses.
+  
+  ## Dataset: 
+
+  ## Model Complexity:
+
+  Since this is a binary classification task, so don't need an overly complex model. A simple model is sufficient 
+
+  ## Stratagy Discussion
+
+  ## 1. Choice of Framework :
+
+  Both PyTorch and Keras are popular deep learning frameworks. They offer high-level APIs ans support for building neural networks. PyTorch provides more flexibility and contro over the model architecture and training process, which are benificial for experimentation.
+
+  
+
+## 2. Data Preparation :
+
+Before building the model, need to preprocess tha dataset. this involves loading the images, resizing them to a uniform size, normalizing the pixel values, and splitting the dataset into training and testing sets.
+
+## Conclusion:
+
+I choose pytorch for building the image classification model. it allows for easy experimentation and customization of the model architecture and training process.
+
+  
   ## Specific test .2 --> [Lens Finding ] 2️⃣
   Dataset
   ## Specific test .3 --> [ Image super resolution ] 3️⃣
